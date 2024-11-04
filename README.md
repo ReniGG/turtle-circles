@@ -1,19 +1,17 @@
 # :turtle:Using Python's Turtle Graphics Library to Draw Concentric Circles 
 
-
 ## Table of Contents 
 - [Features](#features)
 - [Installation](#installation)
 - [How It Works](#how-it-works)
-
+- [Play around](#play-around)
 
 ## Features✨
 - Creates a pattern of concentric circles
 - Each set of circles is drawn in a different direction
 
 ## Installation💻
-
-To run this project, you need Python installed on your machine. 
+- To run this project, you need Python installed on your machine. 
 
 ## How it works🔍
 - The project uses Python's Turtle library to create 4 sets of concentric circles
